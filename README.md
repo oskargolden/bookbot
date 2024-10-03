@@ -1,2 +1,1 @@
-# bookbot
-B.D P1
+BookBot is my first project!
